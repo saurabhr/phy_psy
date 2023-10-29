@@ -4,13 +4,13 @@
 ## **PSY 3002 PHYSIOLOGICAL Psychological**
  |
 | --- |
-| SPRING 2023_Meeting time:_ 1:55 PM – 2:45 PM (Period 7)Monday, Wednesday,Friday
+| SPRING 2023_Meeting time:_ 1:55 PM – 2:45 PM (Period 7) Monday, Wednesday,Friday
 # _Location: PSY 0151_
  |
 |
  |
 
-# ![Shape1](<iframe src="https://giphy.com/embed/hgvpNO4yc7GBq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/power-brain-gif-hgvpNO4yc7GBq">via GIPHY</a></p>)
+# ![gif1:intro](<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xThuWl1CsJUCg2qEDu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/percolategalactic-brain-brains-percolate-galactic-xThuWl1CsJUCg2qEDu">via GIPHY</a></p>)
 
 _Office Hours (In-Person):_
 
