@@ -6,13 +6,13 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: Data 8 Fall 2023
+  name: PSY3002 Phy. Psy. Fall 2023
 ---
 
-# Data 8: Foundations of Data Science
+# PSY3002 Phy. Psy. 
 
 {: .mb-2 }
-UC Berkeley, Fall 2023
+University of Florida, Fall 2023
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
@@ -45,7 +45,7 @@ UC Berkeley, Fall 2023
 
 
 
-<p class="dm-text">The Data 8 Website Dark Mode&trade; is in beta. You can provide feedback about the website <a href="https://forms.gle/64xx2B1Y7K32bNhR9" class="yellow-link">here</a></p>
+<p class="dm-text">The Data 8 Website Dark Mode&trade; is in beta. You can provide feedback about the website <a href="https://google.com" class="yellow-link">here</a></p>
 
 
 <script src="assets/darkmode.js"></script>
