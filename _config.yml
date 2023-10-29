@@ -16,9 +16,9 @@
 title: Data 8
 description: Foundations of Data Science
 author: Data 8 Staff
-email: data8@berkeley.edu
+email: saurabh.ranjan@ufl.edu
 baseurl: '/fa23' # the subpath of your site, e.g. /blog
-url: 'https://www.data8.org' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://www.saurabhr.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/data8logo.png"
 
